@@ -2,4 +2,5 @@ These Python scripts are the basis for creating a Discord Bot, I will constantly
 These files that I will publish you can use them as you wish without any limit, I just ask you to follow me or leave a star.
 
 If you want to recommend new features, open a Pull request: https://github.com/AtomixDem/DiscordBot.py/pulls
+
 If you have problems with the bot, write on Issues: https://github.com/AtomixDem/DiscordBot.py/issues
